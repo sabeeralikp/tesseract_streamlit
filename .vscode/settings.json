@@ -1,0 +1,6 @@
+{
+  "python.formatting.provider": "black",
+  "Codegeex.Comment.LanguagePreference": "English",
+  "Codegeex.SidebarUI.LanguagePreference": "English",
+  "Codegeex.Explanation.LanguagePreference": "English"
+}
