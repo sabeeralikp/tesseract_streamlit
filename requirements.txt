@@ -1,0 +1,5 @@
+! apt install tesseract-ocr-eng tesseract-ocr-mal 
+pytesseract
+streamlit
+pdf2image
+Pillow
