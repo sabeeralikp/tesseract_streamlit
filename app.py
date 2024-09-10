@@ -12,7 +12,7 @@ def pdf_2_image(pdf_file):
 
 def get_language(lang):
     if lang == "English":
-        return "mala"
+        return "eng"
     elif lang == "Malayalam":
         return "mal"
     elif lang == "Hindi":
